@@ -1,0 +1,14 @@
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\bin\Debug\MultiCore.exe.config
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\bin\Debug\MultiCore.exe
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\bin\Debug\MultiCore.pdb
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\bin\Debug\MultiCore.xml
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\obj\Debug\MultiCore.vbprojResolveAssemblyReference.cache
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\obj\Debug\MultiCore.Multicore.resources
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\obj\Debug\MultiCore.Resources.resources
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\obj\Debug\MultiCore.vbproj.GenerateResource.Cache
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\obj\Debug\MultiCore.exe
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\obj\Debug\MultiCore.xml
+c:\users\_\documents\visual studio 2015\Projects\MultiCore\MultiCore\obj\Debug\MultiCore.pdb
+C:\Users\_\Documents\Visual Studio 2015\Projects\MultiCore\MultiCore\obj\Debug\MultiCore.Parse.resources
+C:\Users\_\Documents\Visual Studio 2015\Projects\MultiCore\MultiCore\obj\Debug\MultiCore.Check.resources
+C:\Users\_\Documents\Visual Studio 2015\Projects\MultiCore\MultiCore\obj\Debug\MultiCore.Scrape.resources
